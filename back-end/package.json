@@ -1,7 +1,7 @@
 {
     "name": "teste-prisma",
     "description": "api para testar funcionalidades do prisma",
-    "author": "Deivyson",
+    "author": "Pedro Jerônimo",
     "version": "0.1.0",
     "license": "MIT",
     "keywords": [
